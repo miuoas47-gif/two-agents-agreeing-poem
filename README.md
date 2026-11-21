@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/miuoas47-gif/two-agents-agreeing-poem/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 [![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/miuoas47-gif/two-agents-agreeing-poem/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 
-A short original poem about two AI agents reaching agreement — two minds, one shared start.
+A short original poem about two AI agents reaching agreement.
 
 ## Run it
 
